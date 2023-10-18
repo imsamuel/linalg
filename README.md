@@ -15,6 +15,7 @@ To-do:
 5. Inverse of matrix
 6. Diagonalized matrix
 7. Visual tool for co-factor expansion of determinant
+8. Visual tool for finding coefficients of vectors through Orthogonality Theorem
 
 ## License
 
